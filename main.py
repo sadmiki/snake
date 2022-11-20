@@ -100,4 +100,3 @@ message("Game over!!", py.Color('Red'))
 py.display.update()
 time.sleep(1)
 py.quit()
-
